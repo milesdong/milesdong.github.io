@@ -1,3 +1,3 @@
-function closePage() {
-    window.close();
+function hello() {
+    alert("Hello, World!");
 }
